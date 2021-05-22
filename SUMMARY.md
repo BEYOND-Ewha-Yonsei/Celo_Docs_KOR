@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [환영합니다!](README.md)
+* [Celo 개요](celo.md)
+
 
 ## 시작하기
 
