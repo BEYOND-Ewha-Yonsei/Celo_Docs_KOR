@@ -10,12 +10,5 @@
 ## 개발자 가이드 <a id="undefined-1"></a>
 
 * [개발자 가이드 첫 페이지](undefined-1/undefined.md)
-* [코드 예제](undefined-1/code-examples/README.md)
-  * [Celo 전송하기](undefined-1/code-examples/sending-celo.md)
-  * [컨트렉트 배포하기 \(로컬 노드\)](undefined-1/code-examples/deploy-a-contract-local.md)
-  * [컨트렉트 배포 및 상호작용 자동화](undefined-1/code-examples/deploy-and-interact-with-contracts-remotely.md)
-  * [DappKit Truffle Box](undefined-1/code-examples/dappkit-truffle-box.md)
-  * [윈도우 환경에서 개발하기](undefined-1/code-examples/using-windows.md)
-  * [React 기반 DApp](undefined-1/code-examples/react-based-dapp.md)
 * [Forno](undefined-1/forno.md)
 

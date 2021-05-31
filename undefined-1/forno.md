@@ -1,14 +1,10 @@
----
-description: Forno
----
-
 # Forno
 
 Forno는 Celo 네트워크와 상호 작용하는 cLabs의 노드 서비스입니다. Forno는 직접 노드를 운영할 필요 없이 Celo 블록체인에 연결할 수 있게 해줍니다.
 
 Forno는 HTTP와 웹 소켓 엔드 포인트\(endpoint\)를 갖고 있으며, 이 엔드 포인트\(endpoint\)를 네트워크에 전파하고 싶은 Celo의 현재 데이터나 지난 트랜션의\(transaction\) 쿼리를 보내는 데에 사용할 수 있습니다. 이 서비스는 non-archive 모드로 풀 노드를 운영하며, 이로 인해 현재 블록체인 상태에 대한 쿼리를 보낼 수는 있지만 블록체인의 이전 상태에는 엑세스할 수 없습니다.
 
-Forno는  [ContractKit](https://docs.celo.org/developer-guide/contractkit)를 이용하여 `Http Provider`로 사용할 수 있습니다.
+Forno는 [ContractKit](https://docs.celo.org/developer-guide/contractkit)를 이용하여 `Http Provider`로 사용할 수 있습니다.
 
 ```javascript
 const ContractKit = require('@celo/contractkit')
