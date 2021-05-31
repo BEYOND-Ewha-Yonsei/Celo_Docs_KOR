@@ -1,3 +1,7 @@
+---
+description: Forno
+---
+
 # Forno
 
 Forno는 Celo 네트워크와 상호 작용하는 cLabs의 노드 서비스입니다. Forno는 직접 노드를 운영할 필요 없이 Celo 블록체인에 연결할 수 있게 해줍니다.
