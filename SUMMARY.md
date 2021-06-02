@@ -6,7 +6,8 @@
 ## 시작하기
 
 * [시작하기 첫 페이지](undefined/undefined.md)
-* [메인넷](undefined/undefined-1.md)
+* [Mainnet](undefined/undefined-1/README.md)
+  * [검증자 실행하기](undefined/undefined-1/undefined.md)
 
 ## 개발자 가이드 <a id="undefined-1"></a>
 
